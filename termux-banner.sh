@@ -19,7 +19,7 @@ echo  "cowsay -f eyes "$varacii" | lolcat" > C0w54y.txt
 echo "toilet -f big '    $varbanner' -F gay | lolcat" > 84nn3r.txt
 echo
 echo "clear" > cl34r.txt
-cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/
-cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/
+cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
+cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 ls
-cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/
+cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/zshrc
